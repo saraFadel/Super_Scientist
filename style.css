@@ -82,16 +82,14 @@ footer a {
 
 }
 
-@media  (max-width: 600px) {
+@media screen and (max-width: 400px) {
         .main {
-			background-color: #555;
             border-radius: 0px;
-			width: 450px;
+			width: 100%;
 			margin: auto;
         }
 		.card{
-			width: 300px;
-			background-color: #555;
+			width: 95%;
 
 		}
 }
