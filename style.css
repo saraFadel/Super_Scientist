@@ -84,6 +84,7 @@ footer a {
 
 @media screen and (max-width: 600px) {
         .main {
+			background-color: #555;
             border-radius: 0px;
 			width: 450px;
 			margin: auto;
