@@ -85,7 +85,8 @@ footer a {
 @media (max-width: 600px) {
         .main {
             border-radius: 0px;
-			width: 300px;
+			width: 450px;
+			margin: auto;
         }
 		.card{
 			width: 300px;
