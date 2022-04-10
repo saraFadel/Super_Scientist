@@ -82,7 +82,7 @@ footer a {
 
 }
 
-@media screen and (max-width: 600px) {
+@media  (max-width: 600px) {
         .main {
 			background-color: #555;
             border-radius: 0px;
