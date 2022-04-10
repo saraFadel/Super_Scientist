@@ -82,7 +82,7 @@ footer a {
 
 }
 
-@media (max-width: 600px) {
+@media screen and (max-width: 600px) {
         .main {
             border-radius: 0px;
 			width: 450px;
